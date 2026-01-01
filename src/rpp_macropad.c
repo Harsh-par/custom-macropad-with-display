@@ -9,6 +9,8 @@
 #include "backlight.h"
 #include "gui.h"
 
+//main.c of this project
+
 void core1_main();
 
 volatile uint8_t  current_key_state[KEY_COUNT]  = {0, 0, 0, 0, 0, 0};
