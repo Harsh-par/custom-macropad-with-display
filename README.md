@@ -1,7 +1,5 @@
 ## Custom Macropad with Display
 
-![Macropad](images/MACROPAD.png)  
-
 This is a custom **Raspberry Pi Pico based macropad** with a rotary encoder, tft display, 6 keyboard switches. USB communication was done the using TinyUSB.  
 
 ---
@@ -59,11 +57,14 @@ This is a custom **Raspberry Pi Pico based macropad** with a rotary encoder, tft
 
 ## Images
 
+**Macropad:**  
+![Macropad](images/MACROPAD.png)  
+
 **Schematic:**  
 ![Schematic](images/MACROPAD_SCHEM.png)  
 
 **PCB:**  
-![PCB](images/MACROPAD_PCB.png)  
+![PCB](images/MACROPAD_PCB.png) 
 
 ---
 
